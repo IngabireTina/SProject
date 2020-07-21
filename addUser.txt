@@ -1,0 +1,37 @@
+  firstWay
+============
+setting
+accounts
+add a family member
+
+   SecondWay
+==============
+control panel
+user accounts
+manage another account
+>>change the account type
+>>administrator
+>>change account type
+
+
+               add password on my account on window10
+            ============================================
+first way
+=========
+Settings
+accounts
+click on change
+
+second way
+===========
+Control panel
+User accounts
+Make change to my accounts
+ in pc settings
+sign-in options
+Add
+Next
+Finish
+
+
+
